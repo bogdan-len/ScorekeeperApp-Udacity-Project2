@@ -13,3 +13,6 @@ This project is about combining various ideas and skills we’ve been practicing
    * Updating views
    * Properly scoping variables
    * Finding views by their ID
+
+![GitHub Logo](ScreenshotScoreKeeperApp.jpeg)
+
